@@ -22,7 +22,7 @@ In current lending infrastructure, Banks act as intermediate b/w borrowers and l
 There are several issues associated with centralised systems. Banks generally demand higher safety fraction/mortgage while giving out loans thus giving low growth opportunities to small scale industries, which otherwise could have flourished. Thus, Crowd Bank provides a crowd sourced loan platform where the lender gets to chose the exact amount and the rate at which he wants to lend depending on the purpose/mortgage offered and his own risk assessment. 
 
 <!-- Solution Abstract -->
-=====================
+<!-- ===================== -->
 
 <!-- Our system leverages digital ownership management and proposes a system of Peer to Peer loan backed by digital Mortgages.
 CrowdBank - built on Ethereum is a web platform that connects lenders to borrowers. A person in need of money can create a loan request setting one of his assets as mortgage. The lenders can see the existing loan requests, verify the mortgage and based on his own risk assessment, propose the amount and a rate of interest. The borrower can choose from among the various proposals received and select a subset of them suiting his needs. On completion of the money requirement, the borrower can chose to repay the loan and clear his mortgage.
@@ -35,7 +35,7 @@ Major benefits of using this decentralised system:
 5. Open verifiability of the history associated (successful/failed loans) with a borrowers's account.
 
 System Architecture -->
-===========================
+<!-- =========================== -->
 <!-- 
 1. **A person in need (borrower) requests a loan** and **provides a digital mortgage as a security risk**. He also agrees on a due repay date, failing which he has to forfeit the mortgage. 
 The ownership of **digital mortgage is publically verifiable** on a trusted government portal.
